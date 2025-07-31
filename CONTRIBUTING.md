@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢您对 LibreTV 项目的关注！我们欢迎所有形式的贡献，包括但不限于代码提交、问题报告、功能建议、文档改进等。
+感谢您对 ShepherdTV 项目的关注！我们欢迎所有形式的贡献，包括但不限于代码提交、问题报告、功能建议、文档改进等。
 
 ## 🚀 快速开始
 
@@ -20,7 +20,7 @@
 2. **克隆仓库**
    ```bash
    git clone https://github.com/YOUR_USERNAME/LibreTV.git
-   cd LibreTV
+   cd ShepherdTV
    ```
 
 3. **安装依赖**
@@ -280,4 +280,4 @@ function search(k) {
 
 **再次感谢您的贡献！** 🎉
 
-让我们一起构建一个更好的 LibreTV！
+让我们一起构建一个更好的 ShepherdTV！
